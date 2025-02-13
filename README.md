@@ -28,13 +28,11 @@ This repository contains a **Bash script implementation** of a **Medical Test Ma
 
 ## 👩‍💻 Authors
 **Saja Asfour**
-- [GitHub: SajaAsfour](https://github.com/SajaAsfour)
+- GitHub: [SajaAsfour](https://github.com/SajaAsfour)
   
 **Shahd Shreteh**
-- [GitHub: ShahdShreteh](https://github.com/ShahdShreteh)
+- GitHub: [ShahdShreteh](https://github.com/ShahdShreteh)
 ## 📜 License
 This repository is for educational purposes. Feel free to use and reference the work, but please give proper credit. 😊
 
 ---
-
-Feel free to customize this README to better fit your project's specifics and additional features.
